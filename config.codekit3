@@ -215,6 +215,14 @@
 		"oA": 1,
 		"oAP": "/dev/section-1.html",
 		"oF": 1
+		},
+	"/dev/section-2.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/dev/section-2.html",
+		"oF": 0
 		}
 	},
 "hooks": [
